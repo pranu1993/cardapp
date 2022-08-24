@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/liveproject/static/css/main.256ecd72.css",
-    "main.js": "/liveproject/static/js/main.0cb2cd5c.js",
-    "index.html": "/liveproject/index.html",
-    "main.256ecd72.css.map": "/liveproject/static/css/main.256ecd72.css.map",
-    "main.0cb2cd5c.js.map": "/liveproject/static/js/main.0cb2cd5c.js.map"
+    "main.css": "/cardapp/static/css/main.256ecd72.css",
+    "main.js": "/cardapp/static/js/main.0cb2cd5c.js",
+    "index.html": "/cardapp/index.html",
+    "main.256ecd72.css.map": "/cardapp/static/css/main.256ecd72.css.map",
+    "main.0cb2cd5c.js.map": "/cardapp/static/js/main.0cb2cd5c.js.map"
   },
   "entrypoints": [
     "static/css/main.256ecd72.css",
